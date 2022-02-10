@@ -1,5 +1,6 @@
 body
 {
+    background: blue url("images/dragon.png");
     color: pink;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
